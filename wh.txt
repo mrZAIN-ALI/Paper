@@ -1,0 +1,6 @@
+Create a website in php
+A) create file to connect with db connection.php
+B) Admin can login using his email and password after succesful login create session whcih contain admin username
+C) product insetion form with php and html in which ueser can enter name, brand, description, price, picture
+D) show products with update and delete functionality i.e admin can edit upate and delete products
+E) show product which a user clicked to see left side image and right side details where name, brand, description, price, picture
